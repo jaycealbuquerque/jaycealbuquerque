@@ -6,7 +6,7 @@
 	align="right"
 />
 
-# Hi <img src="https://raw.githubusercontent.com/dudubernardino/dudubernardino/main/assets/hi.gif" width="28px"> , I'm Jayce Albuquerque.
+# Hi <img src="https://raw.githubusercontent.com/jaycealbuquerque/jaycealbuquerque/main/hi.gif" width="28px"> , I'm Jayce Albuquerque.
 <a href="https://github.com/jaycealbuquerque">
       <img alt="Github Badge" src="https://img.shields.io/badge/-Github-333?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/jaycealbuquerque" />
 </a>
