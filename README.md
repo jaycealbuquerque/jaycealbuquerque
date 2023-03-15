@@ -20,7 +20,7 @@
 ## 🏄🏻‍♂️ About me 
 
 - Computer Student.
-- Full Stack Developer Jr.
+- Full Stack Developer.
 - Surf Lover / Coffee Lover.
 - I am currently focused on improving my skills in the javascript ecosystem.
 
